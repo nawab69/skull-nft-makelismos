@@ -1,0 +1,23 @@
+{
+	"version":"semidef",
+  "name":"Gold Skull 1/1 Edition",
+	"collection":"Skull NFT Makelismos",
+  "description": "Description will goes here",
+  "ammount": 1,
+	"image":"https://raw.githubusercontent.com/nawab69/contracts/master/Screenshot%202021-12-16%20at%204.09.21%20PM.png",
+  "image_url":"https://raw.githubusercontent.com/nawab69/contracts/master/Screenshot%202021-12-16%20at%204.09.21%20PM.png",
+  "background_color":"fefefe",
+	"model": "https://gateway.pinata.cloud/ipfs/QmRvCHjgkv718piUMjWUAXwcAgh2FUHURysVkqAMtq6rQ1",
+	"model_with_lights": "https://gateway.pinata.cloud/ipfs/QmRvCHjgkv718piUMjWUAXwcAgh2FUHURysVkqAMtq6rQ1",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
+	"animation_url" : "https://3dmulticone.netlify.app/",
+    "attributes":[
+   		{
+			"value":"minted by Nawab"
+		},
+		{
+			"trait_type": "Frame",
+			"value":"Black"
+		}
+	]
+}
