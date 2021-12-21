@@ -26,15 +26,15 @@
           },
           {
           "trait_type": "Color",
-          "value": "Silver"
+          "value": "white"
           },
           {
           "trait_type": "Element",
-          "value": "silver"
+          "value": "white"
           },
           {
           "trait_type": "Body",
-          "value": "silver"
+          "value": "white"
           }
   ]
 }
