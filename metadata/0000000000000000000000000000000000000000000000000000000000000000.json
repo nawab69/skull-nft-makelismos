@@ -1,14 +1,40 @@
 {
   "version": "semidef",
   "name": "Gold Skull 1/1 Edition",
-  "collection": "Skull NFT Makelismos",
-  "description": "Description will goes here",
-  "ammount": 1,
-  "image": "https://raw.githubusercontent.com/nawab69/contracts/master/Screenshot%202021-12-16%20at%204.09.21%20PM.png",
-  "image_url": "https://raw.githubusercontent.com/nawab69/contracts/master/Screenshot%202021-12-16%20at%204.09.21%20PM.png",
-  "background_color": "fefefe",
-  "model": "https://gateway.pinata.cloud/ipfs/QmUYsdGvJoF7X9FvEZMP5RtxmCwxGdc6nDQuC9wGWxjWoj/3D_Skull_Gold.glb",
-  "model_with_lights": "https://gateway.pinata.cloud/ipfs/QmUYsdGvJoF7X9FvEZMP5RtxmCwxGdc6nDQuC9wGWxjWoj/3D_Skull_Gold.glb",
-  "bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
-  "animation_url": "https://skull-nft.netlify.app/viewer/tokens/0"
+  "collection": "Makelismos",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "amount": 1,
+  "image": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.png",
+  "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.png",
+  "background_color": "#000000",
+  "model": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/0.glb",
+  "model_with_lights": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/0.glb",
+  "bgImg": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/background.hdr",
+  "animation_url": "https://skull-nft.netlify.app/viewer/tokens/0",
+  "attributes": [
+          {
+          "display_type": "date",
+          "trait_type": "Created on",
+          "value": 1640108489
+          },
+          {
+          "value": "minted by Nawab"
+          },
+          {
+          "trait_type": "Background",
+          "value": "Black"
+          },
+          {
+          "trait_type": "Color",
+          "value": "golden"
+          },
+          {
+          "trait_type": "Element",
+          "value": "gold"
+          },
+          {
+          "trait_type": "Body",
+          "value": "gold"
+          }
+  ]
 }
