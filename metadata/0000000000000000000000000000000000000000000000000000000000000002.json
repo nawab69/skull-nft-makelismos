@@ -10,5 +10,5 @@
 	"model": "https://gateway.pinata.cloud/ipfs/QmUYsdGvJoF7X9FvEZMP5RtxmCwxGdc6nDQuC9wGWxjWoj/3D_Skull_White.glb",
 	"model_with_lights": "https://gateway.pinata.cloud/ipfs/QmUYsdGvJoF7X9FvEZMP5RtxmCwxGdc6nDQuC9wGWxjWoj/3D_Skull_White.glb",
 	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
-	"animation_url" : "https://skull-nft.netlify.app/viewer/3",
+	"animation_url" : "https://skull-nft.netlify.app/viewer/tokens/2",
 }
