@@ -1,0 +1,8 @@
+{
+  "name": "SKULL NFT makelismos",
+  "description": "Description goes within these quotes",
+  "image": "https://yourimageurl.com/makelismos.jpeg",
+  "external_link": "https://twitter.com/makelismos",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "ETH ADDRESS"
+}
