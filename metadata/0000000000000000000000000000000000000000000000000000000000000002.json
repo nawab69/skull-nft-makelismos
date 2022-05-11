@@ -1,37 +1,10 @@
 {
   "version": "semidef",
-  "name": "Skull Basquiat Tribute - 1/100 Edition",
-  "collection": "Skull Basquiat Tribute 3D Concept",
-  "description": "Skull Basquiat Tribute - 1/100 Edition",
+  "name": "Deleted",
+  "collection": "Deleted",
+  "description": "Deleted",
   "amount": 1,
-  "image": "https://raw.githubusercontent.com/Crufro/crufro.github.io/main/metadata/assets/white_poster.png",
-  "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/2.png",
-  "background_color": "#000000",
-  "model": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/2.glb",
-  "model_with_lights": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/2.glb",
-  "bgImg": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/background.hdr",
-  "animation_url": "https://crufro.github.io/white.html",
-  "attributes": [
-          {
-          "display_type": "date",
-          "trait_type": "Created on",
-          "value": 1640108489
-          },
-          {
-          "trait_type": "Background",
-          "value": "Black"
-          },
-          {
-          "trait_type": "Color",
-          "value": "white"
-          },
-          {
-          "trait_type": "Element",
-          "value": "white"
-          },
-          {
-          "trait_type": "Body",
-          "value": "white"
-          }
-  ]
+  "image": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
+  "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
+  "background_color": "#000000"
 }
