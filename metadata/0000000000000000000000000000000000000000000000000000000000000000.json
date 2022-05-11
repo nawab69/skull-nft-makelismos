@@ -1,16 +1,12 @@
 {
   "version": "semidef",
-  "name": "Skull Basquiat Tribute Gold - 1/1 Edition",
-  "collection": "Skull Basquiat Tribute 3D Concept",
-  "description": "Skull Basquiat Tribute Gold - 1/1 Edition",
+  "name": "Deleted",
+  "collection": "Deleted",
+  "description": "Deleted",
   "amount": 1,
-  "image": "https://raw.githubusercontent.com/Crufro/crufro.github.io/main/metadata/assets/gold_poster.png",
-  "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.png",
+  "image": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
+  "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
   "background_color": "#000000",
-  "model": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/0.glb",
-  "model_with_lights": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/0.glb",
-  "bgImg": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/background.hdr",
-  "animation_url": "https://crufro.github.io/gold.html",
   "attributes": [
           {
           "display_type": "date",
