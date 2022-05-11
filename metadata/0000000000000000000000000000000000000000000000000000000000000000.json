@@ -6,28 +6,5 @@
   "amount": 1,
   "image": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
   "image_url": "https://raw.githubusercontent.com/nawab69/skull-nft-makelismos/master/poster/0.jpg",
-  "background_color": "#000000",
-  "attributes": [
-          {
-          "display_type": "date",
-          "trait_type": "Created on",
-          "value": 1640108489
-          },
-          {
-          "trait_type": "Background",
-          "value": "Black"
-          },
-          {
-          "trait_type": "Color",
-          "value": "golden"
-          },
-          {
-          "trait_type": "Element",
-          "value": "gold"
-          },
-          {
-          "trait_type": "Body",
-          "value": "gold"
-          }
-  ]
+  "background_color": "#000000"
 }
